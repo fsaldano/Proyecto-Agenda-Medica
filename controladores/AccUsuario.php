@@ -22,7 +22,7 @@ if (!isset($_SESSION["Usuario"])){
         $_SESSION["Usuario"]=$oUsr; 
     }
     else{
-        echo "ERROR de las CREDENCIALES";
+        echo "ERROR de las CREDENCIALES";        
         exit;
     }
 }

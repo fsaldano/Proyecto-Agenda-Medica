@@ -34,7 +34,7 @@ and open the template in the editor.
     background-image: url("http://18.188.51.176/wp-content/uploads/2019/01/15102113_isolated-1188036_1920.png");
 
     /* Full height */
-     height: 300%; 
+     height: 100%; 
 
     /* Center and scale the image nicely */
      background-position: left top ;
@@ -74,7 +74,7 @@ and open the template in the editor.
                                 <input type="password" name="password" id="password" class="form-control" required="">
                             </div>
                             <div class="form-group">
-                                <input type="submit" name="submit" class="btn btn-info btn-md" value="Ingresar" href="<?=URLBASE?>controladores/AccUsuario.php">
+                                <input type="submit" name="submit" class="btn btn-info btn-md" value="Ingresarp>
                             </div>
                         </form>
                     </div>
